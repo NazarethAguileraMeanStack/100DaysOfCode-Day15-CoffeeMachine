@@ -1,0 +1,23 @@
+{
+  "name": "100daysofcode-day15-coffeemachine",
+  "version": "1.0.0",
+  "description": "1. Prompt the user by asking \"What would you like? (espresso/latte/cappuccino): \"\r * check the user's input to decide what to do next.\r * the prompt should show every time action has completed. e.g. once the drink is dispensed. The prompt should show again to serve the next customer.\r * espresso recipe: 50ml water, 18g Coffee\r * Latte recipe: 200ml water, 24g Coffee, 150ml Milk\r * Cappuccino Recipe: 250ml Water, 24g Coffee, 100ml Milk",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NazarethAguileraMeanStack/100DaysOfCode-Day15-CoffeeMachine.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NazarethAguileraMeanStack/100DaysOfCode-Day15-CoffeeMachine/issues"
+  },
+  "homepage": "https://github.com/NazarethAguileraMeanStack/100DaysOfCode-Day15-CoffeeMachine#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
